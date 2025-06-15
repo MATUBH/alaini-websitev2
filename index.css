@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F9F4EF;
+  font-family: 'Poppins', sans-serif;
+}
+h1, h2 {
+  margin-bottom: 16px;
+}
+p, li {
+  font-size: 16px;
+  line-height: 1.6;
+}
